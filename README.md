@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pukar99
-- 👀 I’m interested in Data Science & Trading
+- 👀 I’m interested in 
 - 🌱 I’m currently learning LLMs
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me ....
