@@ -19,6 +19,7 @@ I'm a passionate learner who is deeply engaged in self-studying Data Science and
 ## 📫 How to reach me:
 - Email: [sharma.pukar99@gmail.com](mailto:sharma.pukar99@gmail.com)
 - GitHub: [@Pukar99](https://github.com/Pukar99)
+- LinkedIn: [Pukar Sharma](https://www.linkedin.com/in/pukar-sharma-99a3b52a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 Feel free to reach out if you have any questions or just want to connect!
 
