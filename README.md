@@ -15,6 +15,7 @@ I'm a passionate learner who is deeply engaged in self-studying Data Science and
 - Machine Learning
 - Python Programming
 - Statistical Modeling
+- Many More
 
 ## 📫 How to reach me:
 - Email: [sharma.pukar99@gmail.com](mailto:sharma.pukar99@gmail.com)
