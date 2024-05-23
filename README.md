@@ -12,9 +12,13 @@ I'm a passionate learner who is deeply engaged in self-studying Data Science and
 
 ## 🛠 Skills
 - Data Analysis
+
 - Machine Learning
+
 - Python Programming
+
 - Statistical Modeling
+
 - Many More
 
 ## 📫 How to reach me:
